@@ -1,20 +1,24 @@
 {
   "connectlinks": [
     {
-      "name": "Twitter",
-      "url": "https://twitter.com/jasperketone"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/jake-peterson-101/"
-    },
-    {
       "name": "Github",
-      "url": "https://github.com/jake-101"
+      "url": "https://github.com/bjhorn"
+    },
+    {
+      "name": "Gitlab",
+      "url": "https://githlab.com/bjhorn"
     },
     {
       "name": "Unsplash",
       "url": "https://unsplash.com/@jake101"
+    },
+    {
+      "name": "Instagram",
+      "url": "https:instagram.com/bjhorn"
+    },
+    {
+      "name": "Linked In",
+      "url": "https://www.linkedin.com/in/bhornmd/"
     }
   ]
 }
