@@ -2,7 +2,7 @@
   "sitename": "1440i ",
   "sitedescription": "Marketing made to Get You Paid ",
   "siteicon": "/images/uploads/1440i-logo1-1-.png",
-  "showmenu": true,
+  "showmenu": false,
   "emailsignup": true,
   "altlayout": false,
   "menu": [
