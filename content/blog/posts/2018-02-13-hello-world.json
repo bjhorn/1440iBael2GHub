@@ -1,6 +1,6 @@
 {
   "title": "The Prince of Persuasion wishes you a warm heartfelt welcome... and may all your dreams come true.   ",
   "date": "Tuesday February 13th, 2018",
-  "thumbnail": "/images/uploads/bael-big.jpg",
-  "body": "This site is hosted on [Netlify](https://netlify.com) built using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Netlify CMS](https://netlifycms.org), The site's responsive styling is courtesy of CSS grid layout. Sendgrid email and the fuzzy search features are delivered via highly performant serverless functions. Images are transformed and delivered via Cloudinary and  Staticman takes care of site comments. ."
+  "thumbnail": "/images/uploads/1440i-logo1-1-.png",
+  "body": "This site is hosted on [Netlify](https://netlify.com) built using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Netlify CMS](https://netlifycms.org), The site's responsive styling is courtesy of CSS grid layout. Sendgrid email and the fuzzy search features are delivered via highly performant serverless functions. Images are transformed and delivered via Cloudinary and Staticman takes care of site comments. ."
 }
