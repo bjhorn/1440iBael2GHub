@@ -4,7 +4,7 @@
   "siteicon": "/images/uploads/1440i-logo1-1-.png",
   "showmenu": true,
   "emailsignup": true,
-  "altlayout": true,
+  "altlayout": false,
   "menu": [
     {
       "name": "1440i & Co. ",
