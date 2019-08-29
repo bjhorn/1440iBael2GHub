@@ -1,10 +1,10 @@
 {
-  "sitename": "1440i ",
+  "sitename": "1440i & Co.",
   "sitedescription": "Marketing Made that Gets Business Paid ! ",
   "siteicon": "/images/uploads/1440i-logowatch-navystitchesrednormal-w_260-h_110-v1.png",
   "showmenu": true,
   "emailsignup": true,
-  "altlayout": false,
+  "altlayout": true,
   "menu": [
     {
       "name": "1440i & Co. ",
