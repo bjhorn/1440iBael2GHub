@@ -831,3 +831,8 @@ patch:
         patched: '2019-09-04T23:38:22.839Z'
     - nuxt > @nuxt/webpack > @nuxt/babel-preset-app > @babel/plugin-proposal-decorators > @babel/helper-create-class-features-plugin > @babel/helper-replace-supers > @babel/traverse > lodash:
         patched: '2019-09-04T23:38:22.839Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-11T20:48:18.918Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-11T20:48:18.918Z'
