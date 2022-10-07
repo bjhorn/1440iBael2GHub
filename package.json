@@ -12,11 +12,11 @@
     "generate": "nuxt generate --no-lock",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint",
-    "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "snyk-protect": "snyk-protect",
+    "prepublish": "yarn run snyk-protect"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.3.1",
+    "@nuxtjs/axios": "^5.12.3",
     "@nuxtjs/markdownit": "github:syffs/nuxtv2-markdownit",
     "@nuxtjs/pwa": "^2.0.8",
     "@sendgrid/client": "^6.3.0",
@@ -24,12 +24,12 @@
     "fuse.js": "^3.2.1",
     "hoek": "^4.2.1",
     "netlify-lambda": "^1.4.3",
-    "node-sass": "^4.9.2",
-    "nuxt": "^2.0.0",
+    "node-sass": "^7.0.2",
+    "nuxt": "^2.12.0",
     "sass-loader": "^7.0.3",
     "vue-lazyload": "^1.2.6",
-    "vue-moment": "^4.0.0",
-    "snyk": "^1.234.2"
+    "vue-moment": "^4.1.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
